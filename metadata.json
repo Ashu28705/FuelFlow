@@ -1,0 +1,6 @@
+{
+  "name": "FuelFlow",
+  "description": "Smart fuel station management platform for monitoring sales, tracking revenue, managing workers, and automated bill analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
